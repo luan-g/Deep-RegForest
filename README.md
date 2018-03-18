@@ -18,3 +18,15 @@ For detailed algorithm and experiment results please see our CVPR 2018 [paper](h
 5. Start to train.
 
     `python run.py`
+
+
+Please cite the following paper if it helps your research:
+
+    @inproceedings{shen2018DRFs,
+      author = {Wei Shen and Yilu Guo and Yan Wang and Kai Zhao and Bo Wang and Alan Yuille},
+      booktitle = {Proc. CVPR},
+      title = {Deep Regression Forests for Age Estimation},
+      year = {2018}
+    }
+
+If you have any issues using the code please email us at shenwei1231@gmail.com, gyl.luan0@gmail.com
